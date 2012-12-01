@@ -6,6 +6,14 @@
 	<array>
 		<dict>
 			<key>title</key>
+			<string>Python</string>
+			<key>name</key>
+			<string>org.python.version_3</string>
+			<key>URL</key>
+			<string>https://raw.github.com/Kapeli/feeds/master/Python_3.tgz</string>
+		</dict>
+		<dict>
+			<key>title</key>
 			<string>iOS 6.0 Library</string>
 			<key>name</key>
 			<string>com.apple.adc.documentation.AppleiOS6.0.iOSLibrary.docset</string>
